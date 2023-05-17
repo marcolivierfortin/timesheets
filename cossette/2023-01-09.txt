@@ -5,7 +5,7 @@ client            projet / description           lundi     mardi  mercredi     j
 interne           réunion numérique               0.25                                                                   0.25
 interne           gestion maintenance             0.50      0.50      0.50      0.50      0.50                           2.50
 ---------------   -------------------------   --------  --------  --------  --------  --------  --------  --------   --------
-alloprof          recherche                                                               0.50                           0.50
+alloprof          recherche 1                                                             0.50                           0.50
 alloprof          soutien technique                                                       0.50                           0.50
 ---------------   -------------------------   --------  --------  --------  --------  --------  --------  --------   --------
 wada              research project                7.25      5.00      7.50      1.75      0.50                          22.00

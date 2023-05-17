@@ -6,7 +6,7 @@ interne           réunion numérique               0.25                        
 interne           réunion chef d'expertise        0.25                                                                   0.25
 interne           gestion maintenance             0.50      0.50      0.50      1.00      0.50                           2.50
 ---------------   -------------------------   --------  --------  --------  --------  --------  --------  --------   --------
-alloprof          recherche                                           0.50      0.50                                     1.00
+alloprof          recherche 1                                         0.50      0.50                                     1.00
 alloprof          soutien technique               2.00      2.00                                                         4.00
 ---------------   -------------------------   --------  --------  --------  --------  --------  --------  --------   --------
 wada              research project                0.50                          0.50                                     1.00
